@@ -17,7 +17,9 @@ O projeto é estruturado da seguinte forma:
 
 ## Como Executar o Projeto
 
-1. Clone o repositório para o seu ambiente de desenvolvimento.
+1. Clone o repositório para o seu ambiente de desenvolvimento
+ou entre no Link do Projeto em Produção:
+<a href="feedposts-jlms.netlify.app">Feed Posts Site</a>
 
 ```bash
 git clone https://seurepositorio.com/nome-do-projeto.git
